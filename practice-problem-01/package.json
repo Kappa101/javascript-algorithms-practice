@@ -1,0 +1,19 @@
+{
+  "name": "practical-algos",
+  "version": "1.0.0",
+  "description": "There are always TradeOffs within Space-complexity and Time-complexity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kappa101/javascript-algorithms-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kappa101/javascript-algorithms-practice/issues"
+  },
+  "homepage": "https://github.com/Kappa101/javascript-algorithms-practice#readme"
+}
